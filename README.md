@@ -68,6 +68,7 @@ The GUI provides a simple control panel for:
 - Viewing runtime logs
 - Switching interface language
 
+My training data was drawn too vertically, so it looks like this.
 ![Trajectory Simulator Demo](figure.png)
 
 ---
